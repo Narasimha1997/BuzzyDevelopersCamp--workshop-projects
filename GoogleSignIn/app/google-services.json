@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "527133119091",
+    "firebase_url": "https://signin-abb65.firebaseio.com",
+    "project_id": "signin-abb65",
+    "storage_bucket": "signin-abb65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527133119091:android:e215139b1939f761",
+        "android_client_info": {
+          "package_name": "com.example.narasimha.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527133119091-btft62r7hj7s5h7i484e9b0mj1te5aab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.narasimha.googlesignin",
+            "certificate_hash": "8aaff45a0753cf5cd735c5058b03e363de29a7b6"
+          }
+        },
+        {
+          "client_id": "527133119091-0igh5vgketccbe0ctcolm7hbajmidqet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnST2CJX2Zvmu3SVXSCYPTCgUnGRbi4hQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527133119091-0igh5vgketccbe0ctcolm7hbajmidqet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
